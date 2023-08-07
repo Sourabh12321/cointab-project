@@ -4,7 +4,7 @@ require("dotenv").config();
 // Create a Sequelize instance
 
 const sequelize = new Sequelize(
-  process.env.DATABASE,
+  "rent-a-time",
   process.env.USERNAME,
   process.env.PASSWORD,
   {

@@ -1,7 +1,7 @@
 let fetchuser = document.querySelector("#fetch-users");
 let deleteuser = document.querySelector("#delete-users");
 let userdetails = document.querySelector("#user-details");
-let url = "http://localhost:2000"
+let url = "https://fair-gray-indri-cap.cyclic.app"
 
 
 let isFetching = false;

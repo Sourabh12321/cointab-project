@@ -1,5 +1,5 @@
 // script.js
-let url = "http://localhost:2000"
+let url = "https://fair-gray-indri-cap.cyclic.app"
 const displayArea = document.getElementById('displayArea');
 const genderSelect = document.getElementById('gender-select');
 const pageNumberInput = document.getElementById('pageNumber');
